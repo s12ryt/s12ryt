@@ -1,4 +1,5 @@
 ## hi owo
-![lilith](2873080_10.jpg)
-![lilith2](https://imghost.yoyonet.qzz.io/api/cfile/AgACAgUAAyEGAASx5JNaAAM_aS3nAwmvwTZ5ASmvvxBVm9tdzAoAApsMaxscGHFVg06Bm6bQIWgBAAMCAAN3AAM2BA)
-![lilith3](https://imghost.yoyonet.qzz.io/api/cfile/AgACAgUAAyEGAASx5JNaAANAaS3nBg0o4tI1nQ-dTJDCjFgt8CAAApwMaxscGHFVoZykIygryDABAAMCAAN3AAM2BA)
+![lilith](./see/2873080_10.jpg)
+![lilith2](./see/2873080_11.jpg)
+![lilith3](./see/2873080_15.jpg)
+![lilith4](./see/2873080_9.jpg)
